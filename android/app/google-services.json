@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "246283160873",
+    "project_id": "finknow-7e073",
+    "storage_bucket": "finknow-7e073.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246283160873:android:49d6dcf05b69ed9d74bb38",
+        "android_client_info": {
+          "package_name": "com.example.knowfin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqHM_PzDp2gPLLnupElZ_ApU5dlJVrPSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
